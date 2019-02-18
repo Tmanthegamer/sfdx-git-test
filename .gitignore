@@ -1,2 +1,5 @@
 .sfdx
 .vscode
+.forceignore
+.vim-forceignore.com/
+config
