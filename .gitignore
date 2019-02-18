@@ -1,5 +1,6 @@
 .sfdx
 .vscode
 .forceignore
-.vim-forceignore.com
+.vim*
+sfdx-project.json
 config
